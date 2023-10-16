@@ -1,5 +1,6 @@
 
 
+
 .container {
     max-width: 600px;
     margin: 0 auto;
@@ -21,15 +22,68 @@ input[type="text"] {
     border-radius: 5px;
 }
 
-p{
-    width: 20px;
+
+h1{
+    font-family: 'Cursive', cursive;
+    font-size: 24px;
+    font-weight: bold;
+    color: #3498db; /* Cor do texto (azul) */
+    text-transform: uppercase; /* Transforma o texto em maiúsculas */
+    letter-spacing: 2px; /* Espaçamento entre as letras */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Sombra do texto */
 }
 
-.porra{
-    font-size: 32px;
+p{
+    padding-top: 10px;
+    padding-bottom: 10px;
+
 }
+
+.texto{
+    text-align: center;
+}
+
 
 .display-details {
     margin-top: 20px;
     border-style: solid;
 }
+
+.p2{
+    text-align: center;
+}
+
+.footer {
+    margin-top: 10%;
+    background-color: #333; /* Cor de fundo */
+    color: #fff; /* Cor do texto */
+    text-align: center;
+    padding: 10px;
+
+}
+
+.nav1{
+    background-color: #333;
+}
+
+a{
+    font-family: 'Cursive', cursive;
+    font-size: 24px;
+    font-weight: bold;
+    color: #3498db; /* Cor do texto (azul) */
+    text-transform: uppercase; /* Transforma o texto em maiúsculas */
+    letter-spacing: 2px; /* Espaçamento entre as letras */
+    text-align: center; /* Alinhamento central */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Sombra do texto */
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
