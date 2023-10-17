@@ -1,5 +1,7 @@
 
-
+img{
+    vertical-align: middle;
+}
 
 .container {
     max-width: 600px;
@@ -8,7 +10,7 @@
     background-color: white;
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
-   margin-top: 100px;
+   margin-top: 20px;
 }
 
 #personForm {
@@ -24,7 +26,8 @@ input[type="text"] {
 
 
 h1{
-    font-family: 'Cursive', cursive;
+    padding-top: 15px;
+    font-family: monospace;
     font-size: 24px;
     font-weight: bold;
     color: #3498db; /* Cor do texto (azul) */
@@ -35,7 +38,8 @@ h1{
 
 p{
     padding-top: 10px;
-    padding-bottom: 10px;
+    padding-bottom: 4px;
+    font-family: monospace;
 
 }
 
@@ -59,6 +63,7 @@ p{
     color: #fff; /* Cor do texto */
     text-align: center;
     padding: 10px;
+    font-family: monospace;
 
 }
 
@@ -67,14 +72,14 @@ p{
 }
 
 a{
-    font-family: 'Cursive', cursive;
+    font-family: monospace;
     font-size: 24px;
     font-weight: bold;
-    color: #3498db; /* Cor do texto (azul) */
+    color: #2e7525; /* Cor do texto (azul) */
     text-transform: uppercase; /* Transforma o texto em maiúsculas */
     letter-spacing: 2px; /* Espaçamento entre as letras */
     text-align: center; /* Alinhamento central */
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Sombra do texto */
+    text-shadow: 2px 2px 4px rgba(40, 145, 49, 0.5); /* Sombra do texto */
     text-align: center;
 }
 
