@@ -2,4 +2,4 @@
 
 OBJETO_ORIENTADO :
 
-https://projvinipaiva.github.io/objetos_orientados/Inicio.html
+https://projvinipaiva.github.io/Objetos_orientados/Inicio.html
